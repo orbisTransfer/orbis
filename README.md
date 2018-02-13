@@ -8,4 +8,5 @@ This is the reference code for [Orbis](https://orbistransfer.com) orbiscurrency 
 
 # The Emission Logic of Orbis
 
-<iframe width="854" height="600" src="http://jsfiddle.net/bd78d290/15/" frameborder="0" allowfullscreen></iframe>
+<p><a href="http://jsfiddle.net/bd78d290/15/" target="_blank" title="Orbis emission">Orbis emission Logic</a></p>
+
